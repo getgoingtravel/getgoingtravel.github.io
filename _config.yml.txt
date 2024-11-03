@@ -1,0 +1,5 @@
+name: Get Going Travel
+theme: jekyll-theme-minimal
+title: Get Going Travel Blog
+description: Discover Your Next Adventure with Get Going Travel
+Join us as we explore stunning destinations, share travel tips, and provide insights for you to find inspiration for your next journey today.
