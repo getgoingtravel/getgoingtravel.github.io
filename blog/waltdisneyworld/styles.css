@@ -8,8 +8,8 @@
 }
 
         .image-container {
-            width: 500px; /* Set the width of the container */
-            height: 300px; /* Set the height of the container */
+            width: 250px; /* Set the width of the container */
+            height: 150px; /* Set the height of the container */
             overflow: hidden; /* Hide any overflow */
             position: relative;
             border: 2px solid #ccc; /* Optional: Add a border around the container */
