@@ -11,4 +11,4 @@ Disallow: /cgi-bin/
 Allow: /
 
 # Sitemap location
-Sitemap: https://www.getgoingtravel.co.uk/sitemap.xml
+Sitemap: https://getgoingtravel.co.uk/sitemap.xml
