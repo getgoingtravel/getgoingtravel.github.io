@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /signup/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /private/
+Disallow: /cgi-bin/
+
+# Allow access to the entire site except restricted directories
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.getgoingtravel.co.uk/sitemap.xml
