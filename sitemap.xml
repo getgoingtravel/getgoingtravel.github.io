@@ -8,8 +8,7 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- Example Pages -->
+<!-- Additional Pages -->
     <url>
     <loc>https://getgoingtravel.co.uk/blog</loc>
     <lastmod>2024-12-27</lastmod>
@@ -23,7 +22,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Additional Pages -->
+  
   <url>
     <loc>https://getgoingtravel.co.uk/blog/waltdisneyworld/</loc>
     <lastmod>2024-12-27</lastmod>
