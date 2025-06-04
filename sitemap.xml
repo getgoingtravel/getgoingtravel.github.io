@@ -16,11 +16,21 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://getgoingtravel.co.uk/blog/newyorkcity/</loc>
+    <loc>https://getgoingtravel.co.uk/blog/nyc-on-a-budget/</loc>
     <lastmod>2024-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+<url>
+    <loc>https://getgoingtravel.co.uk/blog/budgeting/</loc>
+    <lastmod>2024-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+
+
+
  
 
 </urlset>
